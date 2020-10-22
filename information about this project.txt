@@ -1,0 +1,38 @@
+About this project
+
+Website used: www.walmart.com
+
+Requirements:
+
+Firefox version : 64
+Chrome version : 85 and above
+Edge version : 85 and above
+
+OS: Windows 10
+
+Eclipse IDE : Mars or Oxygen
+
+This project has two class: BaseUi.java and walmartTest.java
+
+BaseUi has all the global functions declared to complete this project
+Location : \src\main\java\com\ddframework\base\BaseUi.java
+
+Walmart extends BaseUi class and implements all the methods of BaseUi class, thus start Walmart class as TestNG project
+Location : \src\main\java\com\ddframework\mini\project\walmartTest.java
+
+This project has properties file where values are declared.
+Location : \src\test\resources\ObjectRepositiries\Config.properties
+
+
+Excel file to read value
+Loaction : \Book1.xlsx
+
+Excel file after writing the value
+Location : \src\TestData.xlsx
+
+***Warning***
+Walmart sometimes ask you to identify your identity.
+In that case re run the code
+
+
+

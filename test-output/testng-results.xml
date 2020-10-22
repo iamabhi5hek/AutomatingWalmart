@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99430" started-at="2020-10-08T12:23:50 IST" finished-at="2020-10-08T12:25:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99430" started-at="2020-10-08T12:23:50 IST" finished-at="2020-10-08T12:25:29 IST">
+      <class name="com.ddframework.mini.project.walmartTest">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.ddframework.mini.project.walmartTest@704a52ec]" name="testOne" duration-ms="99367" started-at="2020-10-08T12:23:50 IST" finished-at="2020-10-08T12:25:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+      </class> <!-- com.ddframework.mini.project.walmartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
